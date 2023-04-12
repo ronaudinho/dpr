@@ -1,3 +1,3 @@
 package dpr
 
-func NotThis() string { return "SeemsGood" }
+func NotLikeThis() string { return "NotLikeThis" }
